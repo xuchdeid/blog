@@ -1,6 +1,6 @@
 site:
-    title: "koalcat studio"
-    subtitle: "考拉&猫的小作坊"
+    title: "koalcat"
+    subtitle: "..."
     limit: 10
     theme: theme
     lang: zh
